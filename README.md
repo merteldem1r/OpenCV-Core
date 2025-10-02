@@ -5,7 +5,7 @@ Core concepts & implementations of OpenCV library to manipulate images and video
 - **Course**: [OpenCV University](https://opencv.org/university/)
 - **Implemented by**: [Mert Eldemir](https://github.com/merteldem1r)
 
-**NOTE**: To manipulate code and see the results first download the respective images and documents. On each moduel folder run the `download_assets.py` script
+**NOTE**: To manipulate code and see the results first download the respective images and documents. On each module folder run the `download_assets.py` script
 
 ### Module 1: Getting Started With Images
 
